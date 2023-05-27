@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Divyadharshini.A
+### Register Number: 212222240027
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
